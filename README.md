@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/dart.svg" width="140" alt="DART logo">
+
 # DART: Domain-Agnostic Residual Transfer for Generalist Anomaly Detection
 
 **[Muhammad Aqeel](https://github.com/aqeeelmirza)**<sup>1</sup> &nbsp;·&nbsp; **Maham Nazir**<sup>2</sup> &nbsp;·&nbsp; **Marco Cristani**<sup>1,3</sup> &nbsp;·&nbsp; **Francesco Setti**<sup>1</sup>
